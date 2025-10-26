@@ -1,0 +1,14 @@
+C:\Users\ascom\Desktop\Asp.net content\API\TalabatDemoSolution\Core\DomainLayer1\bin\Debug\net8.0\DomainLayer1.deps.json
+C:\Users\ascom\Desktop\Asp.net content\API\TalabatDemoSolution\Core\DomainLayer1\bin\Debug\net8.0\DomainLayer1.runtimeconfig.json
+C:\Users\ascom\Desktop\Asp.net content\API\TalabatDemoSolution\Core\DomainLayer1\bin\Debug\net8.0\DomainLayer1.dll
+C:\Users\ascom\Desktop\Asp.net content\API\TalabatDemoSolution\Core\DomainLayer1\bin\Debug\net8.0\DomainLayer1.pdb
+C:\Users\ascom\Desktop\Asp.net content\API\TalabatDemoSolution\Core\DomainLayer1\obj\Debug\net8.0\DomainLayer1.csproj.AssemblyReference.cache
+C:\Users\ascom\Desktop\Asp.net content\API\TalabatDemoSolution\Core\DomainLayer1\obj\Debug\net8.0\DomainLayer1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ascom\Desktop\Asp.net content\API\TalabatDemoSolution\Core\DomainLayer1\obj\Debug\net8.0\DomainLayer1.AssemblyInfoInputs.cache
+C:\Users\ascom\Desktop\Asp.net content\API\TalabatDemoSolution\Core\DomainLayer1\obj\Debug\net8.0\DomainLayer1.AssemblyInfo.cs
+C:\Users\ascom\Desktop\Asp.net content\API\TalabatDemoSolution\Core\DomainLayer1\obj\Debug\net8.0\DomainLayer1.csproj.CoreCompileInputs.cache
+C:\Users\ascom\Desktop\Asp.net content\API\TalabatDemoSolution\Core\DomainLayer1\obj\Debug\net8.0\DomainLayer1.dll
+C:\Users\ascom\Desktop\Asp.net content\API\TalabatDemoSolution\Core\DomainLayer1\obj\Debug\net8.0\refint\DomainLayer1.dll
+C:\Users\ascom\Desktop\Asp.net content\API\TalabatDemoSolution\Core\DomainLayer1\obj\Debug\net8.0\DomainLayer1.pdb
+C:\Users\ascom\Desktop\Asp.net content\API\TalabatDemoSolution\Core\DomainLayer1\obj\Debug\net8.0\DomainLayer1.genruntimeconfig.cache
+C:\Users\ascom\Desktop\Asp.net content\API\TalabatDemoSolution\Core\DomainLayer1\obj\Debug\net8.0\ref\DomainLayer1.dll

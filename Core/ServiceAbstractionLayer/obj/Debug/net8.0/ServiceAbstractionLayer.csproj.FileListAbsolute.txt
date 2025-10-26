@@ -1,0 +1,17 @@
+C:\Users\ascom\Desktop\Asp.net content\API\TalabatDemoSolution\Core\ServiceAbstractionLayer\bin\Debug\net8.0\ServiceAbstractionLayer.deps.json
+C:\Users\ascom\Desktop\Asp.net content\API\TalabatDemoSolution\Core\ServiceAbstractionLayer\bin\Debug\net8.0\ServiceAbstractionLayer.runtimeconfig.json
+C:\Users\ascom\Desktop\Asp.net content\API\TalabatDemoSolution\Core\ServiceAbstractionLayer\bin\Debug\net8.0\ServiceAbstractionLayer.dll
+C:\Users\ascom\Desktop\Asp.net content\API\TalabatDemoSolution\Core\ServiceAbstractionLayer\bin\Debug\net8.0\ServiceAbstractionLayer.pdb
+C:\Users\ascom\Desktop\Asp.net content\API\TalabatDemoSolution\Core\ServiceAbstractionLayer\bin\Debug\net8.0\SharedDtos.dll
+C:\Users\ascom\Desktop\Asp.net content\API\TalabatDemoSolution\Core\ServiceAbstractionLayer\bin\Debug\net8.0\SharedDtos.pdb
+C:\Users\ascom\Desktop\Asp.net content\API\TalabatDemoSolution\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.csproj.AssemblyReference.cache
+C:\Users\ascom\Desktop\Asp.net content\API\TalabatDemoSolution\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ascom\Desktop\Asp.net content\API\TalabatDemoSolution\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.AssemblyInfoInputs.cache
+C:\Users\ascom\Desktop\Asp.net content\API\TalabatDemoSolution\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.AssemblyInfo.cs
+C:\Users\ascom\Desktop\Asp.net content\API\TalabatDemoSolution\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.csproj.CoreCompileInputs.cache
+C:\Users\ascom\Desktop\Asp.net content\API\TalabatDemoSolution\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceA.CFC80F52.Up2Date
+C:\Users\ascom\Desktop\Asp.net content\API\TalabatDemoSolution\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.dll
+C:\Users\ascom\Desktop\Asp.net content\API\TalabatDemoSolution\Core\ServiceAbstractionLayer\obj\Debug\net8.0\refint\ServiceAbstractionLayer.dll
+C:\Users\ascom\Desktop\Asp.net content\API\TalabatDemoSolution\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.pdb
+C:\Users\ascom\Desktop\Asp.net content\API\TalabatDemoSolution\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.genruntimeconfig.cache
+C:\Users\ascom\Desktop\Asp.net content\API\TalabatDemoSolution\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ref\ServiceAbstractionLayer.dll
