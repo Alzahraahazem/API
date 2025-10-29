@@ -1,0 +1,12 @@
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Sahred\bin\Debug\net8.0\Sahred.deps.json
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Sahred\bin\Debug\net8.0\Sahred.dll
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Sahred\bin\Debug\net8.0\Sahred.pdb
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Sahred\obj\Debug\net8.0\Sahred.GeneratedMSBuildEditorConfig.editorconfig
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Sahred\obj\Debug\net8.0\Sahred.AssemblyInfoInputs.cache
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Sahred\obj\Debug\net8.0\Sahred.AssemblyInfo.cs
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Sahred\obj\Debug\net8.0\Sahred.csproj.CoreCompileInputs.cache
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Sahred\obj\Debug\net8.0\Sahred.dll
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Sahred\obj\Debug\net8.0\refint\Sahred.dll
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Sahred\obj\Debug\net8.0\Sahred.pdb
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Sahred\obj\Debug\net8.0\ref\Sahred.dll
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Sahred\obj\Debug\net8.0\Sahred.sourcelink.json

@@ -1,0 +1,747 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7574D524-6EC2-4A19-B556-0B9C66A7F820}|Core\\ServiceLayer\\ServiceLayer.csproj|e:\\backend(.net)\\route (fullstack .net)\\api coding session\\talabatdemosolution\\core\\servicelayer\\mappingprofiles\\pictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7574D524-6EC2-4A19-B556-0B9C66A7F820}|Core\\ServiceLayer\\ServiceLayer.csproj|solutionrelative:core\\servicelayer\\mappingprofiles\\pictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E0B551-9D28-D69D-F4FA-48AB8E2D8606}|TalabatDemo\\TalabatDemo.csproj|e:\\backend(.net)\\route (fullstack .net)\\api coding session\\talabatdemosolution\\talabatdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E0B551-9D28-D69D-F4FA-48AB8E2D8606}|TalabatDemo\\TalabatDemo.csproj|solutionrelative:talabatdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E0B551-9D28-D69D-F4FA-48AB8E2D8606}|TalabatDemo\\TalabatDemo.csproj|e:\\backend(.net)\\route (fullstack .net)\\api coding session\\talabatdemosolution\\talabatdemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E0B551-9D28-D69D-F4FA-48AB8E2D8606}|TalabatDemo\\TalabatDemo.csproj|solutionrelative:talabatdemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7574D524-6EC2-4A19-B556-0B9C66A7F820}|Core\\ServiceLayer\\ServiceLayer.csproj|e:\\backend(.net)\\route (fullstack .net)\\api coding session\\talabatdemosolution\\core\\servicelayer\\servicelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7574D524-6EC2-4A19-B556-0B9C66A7F820}|Core\\ServiceLayer\\ServiceLayer.csproj|solutionrelative:core\\servicelayer\\servicelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E0B551-9D28-D69D-F4FA-48AB8E2D8606}|TalabatDemo\\TalabatDemo.csproj|e:\\backend(.net)\\route (fullstack .net)\\api coding session\\talabatdemosolution\\talabatdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19E0B551-9D28-D69D-F4FA-48AB8E2D8606}|TalabatDemo\\TalabatDemo.csproj|solutionrelative:talabatdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7574D524-6EC2-4A19-B556-0B9C66A7F820}|Core\\ServiceLayer\\ServiceLayer.csproj|e:\\backend(.net)\\route (fullstack .net)\\api coding session\\talabatdemosolution\\core\\servicelayer\\mappingprofiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7574D524-6EC2-4A19-B556-0B9C66A7F820}|Core\\ServiceLayer\\ServiceLayer.csproj|solutionrelative:core\\servicelayer\\mappingprofiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E0B551-9D28-D69D-F4FA-48AB8E2D8606}|TalabatDemo\\TalabatDemo.csproj|e:\\backend(.net)\\route (fullstack .net)\\api coding session\\talabatdemosolution\\talabatdemo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E0B551-9D28-D69D-F4FA-48AB8E2D8606}|TalabatDemo\\TalabatDemo.csproj|solutionrelative:talabatdemo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E0B551-9D28-D69D-F4FA-48AB8E2D8606}|TalabatDemo\\TalabatDemo.csproj|e:\\backend(.net)\\route (fullstack .net)\\api coding session\\talabatdemosolution\\talabatdemo\\talabatdemo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{19E0B551-9D28-D69D-F4FA-48AB8E2D8606}|TalabatDemo\\TalabatDemo.csproj|solutionrelative:talabatdemo\\talabatdemo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Infrastrucure\\PersistanceLayer\\Data\\Migrations\\20251027141057_addTypeNameColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastrucure\\PersistanceLayer\\Data\\Migrations\\20251027141057_addTypeNameColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B863E8E4-D0A1-4E19-BFC3-CC0D3CEDF39F}|Core\\DomainLayer\\DomainLayer.csproj|e:\\backend(.net)\\route (fullstack .net)\\api coding session\\talabatdemosolution\\core\\domainlayer\\models\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B863E8E4-D0A1-4E19-BFC3-CC0D3CEDF39F}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\models\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D7EFC5-E480-42E1-B27A-524E9A931C99}|Infrastrucure\\Presentaion\\PeresentaionLayer.csproj|e:\\backend(.net)\\route (fullstack .net)\\api coding session\\talabatdemosolution\\infrastrucure\\presentaion\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D7EFC5-E480-42E1-B27A-524E9A931C99}|Infrastrucure\\Presentaion\\PeresentaionLayer.csproj|solutionrelative:infrastrucure\\presentaion\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E0B551-9D28-D69D-F4FA-48AB8E2D8606}|TalabatDemo\\TalabatDemo.csproj|e:\\backend(.net)\\route (fullstack .net)\\api coding session\\talabatdemosolution\\talabatdemo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E0B551-9D28-D69D-F4FA-48AB8E2D8606}|TalabatDemo\\TalabatDemo.csproj|solutionrelative:talabatdemo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EEA8C6-D0A8-4B7E-A6EE-65B64563ADD0}|Infrastrucure\\PersistanceLayer\\PersistanceLayer.csproj|e:\\backend(.net)\\route (fullstack .net)\\api coding session\\talabatdemosolution\\infrastrucure\\persistancelayer\\dataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EEA8C6-D0A8-4B7E-A6EE-65B64563ADD0}|Infrastrucure\\PersistanceLayer\\PersistanceLayer.csproj|solutionrelative:infrastrucure\\persistancelayer\\dataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D7EFC5-E480-42E1-B27A-524E9A931C99}|Infrastrucure\\Presentaion\\PeresentaionLayer.csproj|e:\\backend(.net)\\route (fullstack .net)\\api coding session\\talabatdemosolution\\infrastrucure\\presentaion\\peresentaionlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A7D7EFC5-E480-42E1-B27A-524E9A931C99}|Infrastrucure\\Presentaion\\PeresentaionLayer.csproj|solutionrelative:infrastrucure\\presentaion\\peresentaionlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7574D524-6EC2-4A19-B556-0B9C66A7F820}|Core\\ServiceLayer\\ServiceLayer.csproj|e:\\backend(.net)\\route (fullstack .net)\\api coding session\\talabatdemosolution\\core\\servicelayer\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7574D524-6EC2-4A19-B556-0B9C66A7F820}|Core\\ServiceLayer\\ServiceLayer.csproj|solutionrelative:core\\servicelayer\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7574D524-6EC2-4A19-B556-0B9C66A7F820}|Core\\ServiceLayer\\ServiceLayer.csproj|e:\\backend(.net)\\route (fullstack .net)\\api coding session\\talabatdemosolution\\core\\servicelayer\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7574D524-6EC2-4A19-B556-0B9C66A7F820}|Core\\ServiceLayer\\ServiceLayer.csproj|solutionrelative:core\\servicelayer\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF014AE1-E9DA-4FD8-AF72-D9B2CE468F3B}|Core\\ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj|e:\\backend(.net)\\route (fullstack .net)\\api coding session\\talabatdemosolution\\core\\serviceabstractionlayer\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF014AE1-E9DA-4FD8-AF72-D9B2CE468F3B}|Core\\ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj|solutionrelative:core\\serviceabstractionlayer\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7574D524-6EC2-4A19-B556-0B9C66A7F820}|Core\\ServiceLayer\\ServiceLayer.csproj|e:\\backend(.net)\\route (fullstack .net)\\api coding session\\talabatdemosolution\\core\\servicelayer\\servicelayerassemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7574D524-6EC2-4A19-B556-0B9C66A7F820}|Core\\ServiceLayer\\ServiceLayer.csproj|solutionrelative:core\\servicelayer\\servicelayerassemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B863E8E4-D0A1-4E19-BFC3-CC0D3CEDF39F}|Core\\DomainLayer\\DomainLayer.csproj|e:\\backend(.net)\\route (fullstack .net)\\api coding session\\talabatdemosolution\\core\\domainlayer\\models\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B863E8E4-D0A1-4E19-BFC3-CC0D3CEDF39F}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\models\\productbrand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B863E8E4-D0A1-4E19-BFC3-CC0D3CEDF39F}|Core\\DomainLayer\\DomainLayer.csproj|e:\\backend(.net)\\route (fullstack .net)\\api coding session\\talabatdemosolution\\core\\domainlayer\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B863E8E4-D0A1-4E19-BFC3-CC0D3CEDF39F}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF014AE1-E9DA-4FD8-AF72-D9B2CE468F3B}|Core\\ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj|e:\\backend(.net)\\route (fullstack .net)\\api coding session\\talabatdemosolution\\core\\serviceabstractionlayer\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF014AE1-E9DA-4FD8-AF72-D9B2CE468F3B}|Core\\ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj|solutionrelative:core\\serviceabstractionlayer\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E9EB26-1E14-410D-9B1C-0791C7C1B8B1}|Sahred\\Sahred.csproj|e:\\backend(.net)\\route (fullstack .net)\\api coding session\\talabatdemosolution\\sahred\\dtos\\branddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E9EB26-1E14-410D-9B1C-0791C7C1B8B1}|Sahred\\Sahred.csproj|solutionrelative:sahred\\dtos\\branddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E9EB26-1E14-410D-9B1C-0791C7C1B8B1}|Sahred\\Sahred.csproj|e:\\backend(.net)\\route (fullstack .net)\\api coding session\\talabatdemosolution\\sahred\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E9EB26-1E14-410D-9B1C-0791C7C1B8B1}|Sahred\\Sahred.csproj|solutionrelative:sahred\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E9EB26-1E14-410D-9B1C-0791C7C1B8B1}|Sahred\\Sahred.csproj|e:\\backend(.net)\\route (fullstack .net)\\api coding session\\talabatdemosolution\\sahred\\dtos\\typedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E9EB26-1E14-410D-9B1C-0791C7C1B8B1}|Sahred\\Sahred.csproj|solutionrelative:sahred\\dtos\\typedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EEA8C6-D0A8-4B7E-A6EE-65B64563ADD0}|Infrastrucure\\PersistanceLayer\\PersistanceLayer.csproj|e:\\backend(.net)\\route (fullstack .net)\\api coding session\\talabatdemosolution\\infrastrucure\\persistancelayer\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EEA8C6-D0A8-4B7E-A6EE-65B64563ADD0}|Infrastrucure\\PersistanceLayer\\PersistanceLayer.csproj|solutionrelative:infrastrucure\\persistancelayer\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EEA8C6-D0A8-4B7E-A6EE-65B64563ADD0}|Infrastrucure\\PersistanceLayer\\PersistanceLayer.csproj|e:\\backend(.net)\\route (fullstack .net)\\api coding session\\talabatdemosolution\\infrastrucure\\persistancelayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EEA8C6-D0A8-4B7E-A6EE-65B64563ADD0}|Infrastrucure\\PersistanceLayer\\PersistanceLayer.csproj|solutionrelative:infrastrucure\\persistancelayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B863E8E4-D0A1-4E19-BFC3-CC0D3CEDF39F}|Core\\DomainLayer\\DomainLayer.csproj|e:\\backend(.net)\\route (fullstack .net)\\api coding session\\talabatdemosolution\\core\\domainlayer\\contracts\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B863E8E4-D0A1-4E19-BFC3-CC0D3CEDF39F}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\contracts\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B863E8E4-D0A1-4E19-BFC3-CC0D3CEDF39F}|Core\\DomainLayer\\DomainLayer.csproj|e:\\backend(.net)\\route (fullstack .net)\\api coding session\\talabatdemosolution\\core\\domainlayer\\contracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B863E8E4-D0A1-4E19-BFC3-CC0D3CEDF39F}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\contracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B863E8E4-D0A1-4E19-BFC3-CC0D3CEDF39F}|Core\\DomainLayer\\DomainLayer.csproj|e:\\backend(.net)\\route (fullstack .net)\\api coding session\\talabatdemosolution\\core\\domainlayer\\contracts\\idataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B863E8E4-D0A1-4E19-BFC3-CC0D3CEDF39F}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\contracts\\idataseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EEA8C6-D0A8-4B7E-A6EE-65B64563ADD0}|Infrastrucure\\PersistanceLayer\\PersistanceLayer.csproj|e:\\backend(.net)\\route (fullstack .net)\\api coding session\\talabatdemosolution\\infrastrucure\\persistancelayer\\data\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EEA8C6-D0A8-4B7E-A6EE-65B64563ADD0}|Infrastrucure\\PersistanceLayer\\PersistanceLayer.csproj|solutionrelative:infrastrucure\\persistancelayer\\data\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EEA8C6-D0A8-4B7E-A6EE-65B64563ADD0}|Infrastrucure\\PersistanceLayer\\PersistanceLayer.csproj|e:\\backend(.net)\\route (fullstack .net)\\api coding session\\talabatdemosolution\\infrastrucure\\persistancelayer\\data\\migrations\\20251024061454_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EEA8C6-D0A8-4B7E-A6EE-65B64563ADD0}|Infrastrucure\\PersistanceLayer\\PersistanceLayer.csproj|solutionrelative:infrastrucure\\persistancelayer\\data\\migrations\\20251024061454_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EEA8C6-D0A8-4B7E-A6EE-65B64563ADD0}|Infrastrucure\\PersistanceLayer\\PersistanceLayer.csproj|e:\\backend(.net)\\route (fullstack .net)\\api coding session\\talabatdemosolution\\infrastrucure\\persistancelayer\\projectreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EEA8C6-D0A8-4B7E-A6EE-65B64563ADD0}|Infrastrucure\\PersistanceLayer\\PersistanceLayer.csproj|solutionrelative:infrastrucure\\persistancelayer\\projectreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EEA8C6-D0A8-4B7E-A6EE-65B64563ADD0}|Infrastrucure\\PersistanceLayer\\PersistanceLayer.csproj|e:\\backend(.net)\\route (fullstack .net)\\api coding session\\talabatdemosolution\\infrastrucure\\persistancelayer\\data\\configurations\\productconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EEA8C6-D0A8-4B7E-A6EE-65B64563ADD0}|Infrastrucure\\PersistanceLayer\\PersistanceLayer.csproj|solutionrelative:infrastrucure\\persistancelayer\\data\\configurations\\productconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B863E8E4-D0A1-4E19-BFC3-CC0D3CEDF39F}|Core\\DomainLayer\\DomainLayer.csproj|e:\\backend(.net)\\route (fullstack .net)\\api coding session\\talabatdemosolution\\core\\domainlayer\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B863E8E4-D0A1-4E19-BFC3-CC0D3CEDF39F}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EEA8C6-D0A8-4B7E-A6EE-65B64563ADD0}|Infrastrucure\\PersistanceLayer\\PersistanceLayer.csproj|e:\\backend(.net)\\route (fullstack .net)\\api coding session\\talabatdemosolution\\infrastrucure\\persistancelayer\\persistancelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{17EEA8C6-D0A8-4B7E-A6EE-65B64563ADD0}|Infrastrucure\\PersistanceLayer\\PersistanceLayer.csproj|solutionrelative:infrastrucure\\persistancelayer\\persistancelayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF014AE1-E9DA-4FD8-AF72-D9B2CE468F3B}|Core\\ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj|e:\\backend(.net)\\route (fullstack .net)\\api coding session\\talabatdemosolution\\core\\serviceabstractionlayer\\serviceabstractionlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BF014AE1-E9DA-4FD8-AF72-D9B2CE468F3B}|Core\\ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj|solutionrelative:core\\serviceabstractionlayer\\serviceabstractionlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17E9EB26-1E14-410D-9B1C-0791C7C1B8B1}|Sahred\\Sahred.csproj|e:\\backend(.net)\\route (fullstack .net)\\api coding session\\talabatdemosolution\\sahred\\sahred.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{17E9EB26-1E14-410D-9B1C-0791C7C1B8B1}|Sahred\\Sahred.csproj|solutionrelative:sahred\\sahred.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B863E8E4-D0A1-4E19-BFC3-CC0D3CEDF39F}|Core\\DomainLayer\\DomainLayer.csproj|e:\\backend(.net)\\route (fullstack .net)\\api coding session\\talabatdemosolution\\core\\domainlayer\\domainlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B863E8E4-D0A1-4E19-BFC3-CC0D3CEDF39F}|Core\\DomainLayer\\DomainLayer.csproj|solutionrelative:core\\domainlayer\\domainlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\TalabatDemo\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TalabatDemo\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\TalabatDemo\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TalabatDemo\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T16:58:55.85Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PictureUrlResolver.cs",
+              "DocumentMoniker": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Core\\ServiceLayer\\MappingProfiles\\PictureUrlResolver.cs",
+              "RelativeDocumentMoniker": "Core\\ServiceLayer\\MappingProfiles\\PictureUrlResolver.cs",
+              "ToolTip": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Core\\ServiceLayer\\MappingProfiles\\PictureUrlResolver.cs",
+              "RelativeToolTip": "Core\\ServiceLayer\\MappingProfiles\\PictureUrlResolver.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T14:40:43.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20251027141057_addTypeNameColumn.cs",
+              "DocumentMoniker": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Infrastrucure\\PersistanceLayer\\Data\\Migrations\\20251027141057_addTypeNameColumn.cs",
+              "RelativeDocumentMoniker": "Infrastrucure\\PersistanceLayer\\Data\\Migrations\\20251027141057_addTypeNameColumn.cs",
+              "ToolTip": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Infrastrucure\\PersistanceLayer\\Data\\Migrations\\20251027141057_addTypeNameColumn.cs",
+              "RelativeToolTip": "Infrastrucure\\PersistanceLayer\\Data\\Migrations\\20251027141057_addTypeNameColumn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T14:10:57.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Core\\ServiceLayer\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "Core\\ServiceLayer\\ServiceManager.cs",
+              "ToolTip": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Core\\ServiceLayer\\ServiceManager.cs",
+              "RelativeToolTip": "Core\\ServiceLayer\\ServiceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T11:03:24.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IServiceManager.cs",
+              "DocumentMoniker": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Core\\ServiceAbstractionLayer\\IServiceManager.cs",
+              "RelativeDocumentMoniker": "Core\\ServiceAbstractionLayer\\IServiceManager.cs",
+              "ToolTip": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Core\\ServiceAbstractionLayer\\IServiceManager.cs",
+              "RelativeToolTip": "Core\\ServiceAbstractionLayer\\IServiceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T11:01:56.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Infrastrucure\\Presentaion\\ProductController.cs",
+              "RelativeDocumentMoniker": "Infrastrucure\\Presentaion\\ProductController.cs",
+              "ToolTip": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Infrastrucure\\Presentaion\\ProductController.cs",
+              "RelativeToolTip": "Infrastrucure\\Presentaion\\ProductController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:59:50.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ServiceLayerAssemblyReference.cs",
+              "DocumentMoniker": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Core\\ServiceLayer\\ServiceLayerAssemblyReference.cs",
+              "RelativeDocumentMoniker": "Core\\ServiceLayer\\ServiceLayerAssemblyReference.cs",
+              "ToolTip": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Core\\ServiceLayer\\ServiceLayerAssemblyReference.cs",
+              "RelativeToolTip": "Core\\ServiceLayer\\ServiceLayerAssemblyReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:45:05.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Core\\ServiceLayer\\MappingProfiles\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "Core\\ServiceLayer\\MappingProfiles\\ProductProfile.cs",
+              "ToolTip": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Core\\ServiceLayer\\MappingProfiles\\ProductProfile.cs",
+              "RelativeToolTip": "Core\\ServiceLayer\\MappingProfiles\\ProductProfile.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBMAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T10:34:40.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Core\\ServiceLayer\\ProductService.cs",
+              "RelativeDocumentMoniker": "Core\\ServiceLayer\\ProductService.cs",
+              "ToolTip": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Core\\ServiceLayer\\ProductService.cs",
+              "RelativeToolTip": "Core\\ServiceLayer\\ProductService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA6wA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T04:31:13.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TypeDto.cs",
+              "DocumentMoniker": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Sahred\\DTOS\\TypeDto.cs",
+              "RelativeDocumentMoniker": "Sahred\\DTOS\\TypeDto.cs",
+              "ToolTip": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Sahred\\DTOS\\TypeDto.cs",
+              "RelativeToolTip": "Sahred\\DTOS\\TypeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T04:26:27.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BrandDto.cs",
+              "DocumentMoniker": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Sahred\\DTOS\\BrandDto.cs",
+              "RelativeDocumentMoniker": "Sahred\\DTOS\\BrandDto.cs",
+              "ToolTip": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Sahred\\DTOS\\BrandDto.cs",
+              "RelativeToolTip": "Sahred\\DTOS\\BrandDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T04:26:19.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Sahred\\DTOS\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Sahred\\DTOS\\ProductDto.cs",
+              "ToolTip": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Sahred\\DTOS\\ProductDto.cs",
+              "RelativeToolTip": "Sahred\\DTOS\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAMBlwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T04:23:26.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Core\\ServiceAbstractionLayer\\IProductService.cs",
+              "RelativeDocumentMoniker": "Core\\ServiceAbstractionLayer\\IProductService.cs",
+              "ToolTip": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Core\\ServiceAbstractionLayer\\IProductService.cs",
+              "RelativeToolTip": "Core\\ServiceAbstractionLayer\\IProductService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAMBlwBgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T04:21:25.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Infrastrucure\\PersistanceLayer\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Infrastrucure\\PersistanceLayer\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Infrastrucure\\PersistanceLayer\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Infrastrucure\\PersistanceLayer\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T04:07:14.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Core\\DomainLayer\\Contracts\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Contracts\\IUnitOfWork.cs",
+              "ToolTip": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Core\\DomainLayer\\Contracts\\IUnitOfWork.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Contracts\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T04:01:57.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Infrastrucure\\PersistanceLayer\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Infrastrucure\\PersistanceLayer\\Repositories\\GenericRepository.cs",
+              "ToolTip": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Infrastrucure\\PersistanceLayer\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Infrastrucure\\PersistanceLayer\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:49:36.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Core\\DomainLayer\\Contracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Contracts\\IGenericRepository.cs",
+              "ToolTip": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Core\\DomainLayer\\Contracts\\IGenericRepository.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Contracts\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T03:44:15.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataSeeding.cs",
+              "DocumentMoniker": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Infrastrucure\\PersistanceLayer\\DataSeeding.cs",
+              "RelativeDocumentMoniker": "Infrastrucure\\PersistanceLayer\\DataSeeding.cs",
+              "ToolTip": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Infrastrucure\\PersistanceLayer\\DataSeeding.cs",
+              "RelativeToolTip": "Infrastrucure\\PersistanceLayer\\DataSeeding.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAEwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T06:21:06.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IDataSeeding.cs",
+              "DocumentMoniker": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Core\\DomainLayer\\Contracts\\IDataSeeding.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Contracts\\IDataSeeding.cs",
+              "ToolTip": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Core\\DomainLayer\\Contracts\\IDataSeeding.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Contracts\\IDataSeeding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T06:19:57.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20251024061454_InitialCreate.cs",
+              "DocumentMoniker": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Infrastrucure\\PersistanceLayer\\Data\\Migrations\\20251024061454_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Infrastrucure\\PersistanceLayer\\Data\\Migrations\\20251024061454_InitialCreate.cs",
+              "ToolTip": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Infrastrucure\\PersistanceLayer\\Data\\Migrations\\20251024061454_InitialCreate.cs",
+              "RelativeToolTip": "Infrastrucure\\PersistanceLayer\\Data\\Migrations\\20251024061454_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T06:14:54.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\TalabatDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "TalabatDemo\\appsettings.json",
+              "ToolTip": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\TalabatDemo\\appsettings.json",
+              "RelativeToolTip": "TalabatDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-24T06:05:32.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProjectReference.cs",
+              "DocumentMoniker": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Infrastrucure\\PersistanceLayer\\ProjectReference.cs",
+              "RelativeDocumentMoniker": "Infrastrucure\\PersistanceLayer\\ProjectReference.cs",
+              "ToolTip": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Infrastrucure\\PersistanceLayer\\ProjectReference.cs",
+              "RelativeToolTip": "Infrastrucure\\PersistanceLayer\\ProjectReference.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T06:00:37.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProductConfigurations.cs",
+              "DocumentMoniker": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Infrastrucure\\PersistanceLayer\\Data\\Configurations\\ProductConfigurations.cs",
+              "RelativeDocumentMoniker": "Infrastrucure\\PersistanceLayer\\Data\\Configurations\\ProductConfigurations.cs",
+              "ToolTip": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Infrastrucure\\PersistanceLayer\\Data\\Configurations\\ProductConfigurations.cs",
+              "RelativeToolTip": "Infrastrucure\\PersistanceLayer\\Data\\Configurations\\ProductConfigurations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAMBlwBYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T21:00:10.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StoreDbContext.cs",
+              "DocumentMoniker": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Infrastrucure\\PersistanceLayer\\Data\\StoreDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastrucure\\PersistanceLayer\\Data\\StoreDbContext.cs",
+              "ToolTip": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Infrastrucure\\PersistanceLayer\\Data\\StoreDbContext.cs",
+              "RelativeToolTip": "Infrastrucure\\PersistanceLayer\\Data\\StoreDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAGBpwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T20:57:52.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Core\\DomainLayer\\Models\\ProductType.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\ProductType.cs",
+              "ToolTip": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Core\\DomainLayer\\Models\\ProductType.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Models\\ProductType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T20:53:26.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductBrand.cs",
+              "DocumentMoniker": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Core\\DomainLayer\\Models\\ProductBrand.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\ProductBrand.cs",
+              "ToolTip": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Core\\DomainLayer\\Models\\ProductBrand.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Models\\ProductBrand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T20:48:19.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Core\\DomainLayer\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\Product.cs",
+              "ToolTip": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Core\\DomainLayer\\Models\\Product.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Models\\Product.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAA5wBUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T20:48:02.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Core\\DomainLayer\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\Models\\BaseEntity.cs",
+              "ToolTip": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Core\\DomainLayer\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\DomainLayer\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T20:47:02.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PeresentaionLayer.csproj",
+              "DocumentMoniker": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Infrastrucure\\Presentaion\\PeresentaionLayer.csproj",
+              "RelativeDocumentMoniker": "Infrastrucure\\Presentaion\\PeresentaionLayer.csproj",
+              "ToolTip": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Infrastrucure\\Presentaion\\PeresentaionLayer.csproj",
+              "RelativeToolTip": "Infrastrucure\\Presentaion\\PeresentaionLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-23T20:37:23.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PersistanceLayer.csproj",
+              "DocumentMoniker": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Infrastrucure\\PersistanceLayer\\PersistanceLayer.csproj",
+              "RelativeDocumentMoniker": "Infrastrucure\\PersistanceLayer\\PersistanceLayer.csproj",
+              "ToolTip": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Infrastrucure\\PersistanceLayer\\PersistanceLayer.csproj",
+              "RelativeToolTip": "Infrastrucure\\PersistanceLayer\\PersistanceLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-23T20:38:05.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ServiceAbstractionLayer.csproj",
+              "DocumentMoniker": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Core\\ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj",
+              "RelativeDocumentMoniker": "Core\\ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj",
+              "ToolTip": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Core\\ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj",
+              "RelativeToolTip": "Core\\ServiceAbstractionLayer\\ServiceAbstractionLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-23T20:36:29.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Sahred.csproj",
+              "DocumentMoniker": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Sahred\\Sahred.csproj",
+              "RelativeDocumentMoniker": "Sahred\\Sahred.csproj",
+              "ToolTip": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Sahred\\Sahred.csproj",
+              "RelativeToolTip": "Sahred\\Sahred.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-23T20:36:23.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceLayer.csproj",
+              "DocumentMoniker": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Core\\ServiceLayer\\ServiceLayer.csproj",
+              "RelativeDocumentMoniker": "Core\\ServiceLayer\\ServiceLayer.csproj",
+              "ToolTip": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Core\\ServiceLayer\\ServiceLayer.csproj",
+              "RelativeToolTip": "Core\\ServiceLayer\\ServiceLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-23T20:35:34.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DomainLayer.csproj",
+              "DocumentMoniker": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Core\\DomainLayer\\DomainLayer.csproj",
+              "RelativeDocumentMoniker": "Core\\DomainLayer\\DomainLayer.csproj",
+              "ToolTip": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Core\\DomainLayer\\DomainLayer.csproj",
+              "RelativeToolTip": "Core\\DomainLayer\\DomainLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-23T20:30:55.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TalabatDemo.http",
+              "DocumentMoniker": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\TalabatDemo\\TalabatDemo.http",
+              "RelativeDocumentMoniker": "TalabatDemo\\TalabatDemo.http",
+              "ToolTip": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\TalabatDemo\\TalabatDemo.http",
+              "RelativeToolTip": "TalabatDemo\\TalabatDemo.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-23T17:25:40.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\TalabatDemo\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "TalabatDemo\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\TalabatDemo\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "TalabatDemo\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwB8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:08:27.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\TalabatDemo\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "TalabatDemo\\Models\\Product.cs",
+              "ToolTip": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\TalabatDemo\\Models\\Product.cs",
+              "RelativeToolTip": "TalabatDemo\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T17:07:52.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\TalabatDemo\\Program.cs",
+              "RelativeDocumentMoniker": "TalabatDemo\\Program.cs",
+              "ToolTip": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\TalabatDemo\\Program.cs",
+              "RelativeToolTip": "TalabatDemo\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T16:54:33.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/Core/">
+    <Project Path="Core/DomainLayer/DomainLayer.csproj" Id="b863e8e4-d0a1-4e19-bfc3-cc0d3cedf39f" />
+    <Project Path="Core/ServiceAbstractionLayer/ServiceAbstractionLayer.csproj" Id="bf014ae1-e9da-4fd8-af72-d9b2ce468f3b" />
+    <Project Path="Core/ServiceLayer/ServiceLayer.csproj" Id="7574d524-6ec2-4a19-b556-0b9c66a7f820" />
+  </Folder>
+  <Folder Name="/Infrastrucure/">
+    <Project Path="Infrastrucure/PersistanceLayer/PersistanceLayer.csproj" Id="17eea8c6-d0a8-4b7e-a6ee-65b64563add0" />
+    <Project Path="Infrastrucure/Presentaion/PeresentaionLayer.csproj" Id="a7d7efc5-e480-42e1-b27a-524e9a931c99" />
+  </Folder>
+  <Project Path="Sahred/Sahred.csproj" Id="17e9eb26-1e14-410d-9b1c-0791c7c1b8b1" />
+  <Project Path="TalabatDemo/TalabatDemo.csproj" />
+</Solution>

@@ -1,0 +1,14 @@
+﻿@PeresentaionLayer_HostAddress = 
+### Get Product By Id
+@id=0
+GET {{PeresentaionLayer_HostAddress}}/api/Product/{{id}}
+
+### Get All Types
+
+GET {{PeresentaionLayer_HostAddress}}/api/Product/types
+
+###Get All Brands
+
+GET {{PeresentaionLayer_HostAddress}}/api/Product/brands
+
+###
