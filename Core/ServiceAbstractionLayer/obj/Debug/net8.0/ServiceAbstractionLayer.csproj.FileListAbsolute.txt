@@ -1,0 +1,16 @@
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Core\ServiceAbstractionLayer\bin\Debug\net8.0\ServiceAbstractionLayer.deps.json
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Core\ServiceAbstractionLayer\bin\Debug\net8.0\ServiceAbstractionLayer.dll
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Core\ServiceAbstractionLayer\bin\Debug\net8.0\ServiceAbstractionLayer.pdb
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.csproj.AssemblyReference.cache
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.AssemblyInfoInputs.cache
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.AssemblyInfo.cs
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.csproj.CoreCompileInputs.cache
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceA.CFC80F52.Up2Date
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.dll
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Core\ServiceAbstractionLayer\obj\Debug\net8.0\refint\ServiceAbstractionLayer.dll
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.pdb
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ref\ServiceAbstractionLayer.dll
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Core\ServiceAbstractionLayer\obj\Debug\net8.0\ServiceAbstractionLayer.sourcelink.json
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Core\ServiceAbstractionLayer\bin\Debug\net8.0\Shared.dll
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Core\ServiceAbstractionLayer\bin\Debug\net8.0\Shared.pdb

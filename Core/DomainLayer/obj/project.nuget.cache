@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "paBPq6dysII=",
+  "success": true,
+  "projectFilePath": "E:\\BackEnd(.NET)\\Route (FullStack .Net)\\API Coding Session\\TalabatDemoSolution\\Core\\DomainLayer\\DomainLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.21\\microsoft.windowsdesktop.app.ref.8.0.21.nupkg.sha512",
+    "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.21\\microsoft.netcore.app.ref.8.0.21.nupkg.sha512",
+    "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.21\\microsoft.aspnetcore.app.ref.8.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

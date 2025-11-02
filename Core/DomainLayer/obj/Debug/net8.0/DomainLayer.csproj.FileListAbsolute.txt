@@ -1,0 +1,12 @@
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Core\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Core\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Core\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Core\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Core\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll
+E:\BackEnd(.NET)\Route (FullStack .Net)\API Coding Session\TalabatDemoSolution\Core\DomainLayer\obj\Debug\net8.0\DomainLayer.sourcelink.json
